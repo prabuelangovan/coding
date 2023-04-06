@@ -3,3 +3,5 @@ whatsapp creation
  2. voice  chat
  3. file attachment
  4. status 
+ 5. read receiptent
+ 6. location sharing
