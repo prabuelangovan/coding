@@ -4,4 +4,8 @@ whatsapp creation
  3. file attachment
  4. status 
  5. read receiptent
- 7. profile pic
+ 6. location sharing
+ 7. video calling
+ 8. voice calling
+ 9. profile pic
+
