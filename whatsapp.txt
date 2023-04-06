@@ -5,3 +5,5 @@ whatsapp creation
  4. status 
  5. read receiptent
  6. location sharing
+ 7. video calling
+ 8. voice calling
