@@ -7,3 +7,5 @@ whatsapp creation
  6. location sharing
  7. video calling
  8. voice calling
+ 9. profile pic
+
