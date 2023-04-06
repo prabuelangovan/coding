@@ -1,0 +1,5 @@
+whatsapp creation
+ 1. text - chat
+ 2. voice  chat
+ 3. file attachment
+ 
